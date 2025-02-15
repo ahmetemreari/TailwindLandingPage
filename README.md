@@ -27,7 +27,7 @@ Modern tasarım ve teknolojilerle geliştirilmiş kurumsal web sitesi. İşletme
 ### 💻 Kurulum ve Kullanım
 1. Repoyu klonlayın
 ```bash
-git clone https://github.com/ahmetemreari/aea-software.git
+git clone https://github.com/ahmetemreari/TailwindLandingPage.git
 ```
 2. Proje dizinine gidin
 ```bash
@@ -74,7 +74,7 @@ Corporate website developed with modern design and technologies. A landing page 
 ### 💻 Installation & Usage
 1. Clone the repository
 ```bash
-git clone https://github.com/ahmetemreari/aea-software.git
+git clone https://github.com/ahmetemreari/TailwindLandingPage.git
 ```
 2. Go to project directory
 ```bash
